@@ -1,0 +1,15 @@
+/home/tiago/Documentos/_SENAI/Atividade/bin/Debug/net8.0/_SENAI
+/home/tiago/Documentos/_SENAI/Atividade/bin/Debug/net8.0/_SENAI.deps.json
+/home/tiago/Documentos/_SENAI/Atividade/bin/Debug/net8.0/_SENAI.runtimeconfig.json
+/home/tiago/Documentos/_SENAI/Atividade/bin/Debug/net8.0/_SENAI.dll
+/home/tiago/Documentos/_SENAI/Atividade/bin/Debug/net8.0/_SENAI.pdb
+/home/tiago/Documentos/_SENAI/Atividade/obj/Debug/net8.0/_SENAI.GeneratedMSBuildEditorConfig.editorconfig
+/home/tiago/Documentos/_SENAI/Atividade/obj/Debug/net8.0/_SENAI.AssemblyInfoInputs.cache
+/home/tiago/Documentos/_SENAI/Atividade/obj/Debug/net8.0/_SENAI.AssemblyInfo.cs
+/home/tiago/Documentos/_SENAI/Atividade/obj/Debug/net8.0/_SENAI.csproj.CoreCompileInputs.cache
+/home/tiago/Documentos/_SENAI/Atividade/obj/Debug/net8.0/_SENAI.sourcelink.json
+/home/tiago/Documentos/_SENAI/Atividade/obj/Debug/net8.0/_SENAI.dll
+/home/tiago/Documentos/_SENAI/Atividade/obj/Debug/net8.0/refint/_SENAI.dll
+/home/tiago/Documentos/_SENAI/Atividade/obj/Debug/net8.0/_SENAI.pdb
+/home/tiago/Documentos/_SENAI/Atividade/obj/Debug/net8.0/_SENAI.genruntimeconfig.cache
+/home/tiago/Documentos/_SENAI/Atividade/obj/Debug/net8.0/ref/_SENAI.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/tiago/Documentos/_SENAI/_SENAI.csproj": {}
+    "/home/tiago/Documentos/_SENAI/Atividade/_SENAI.csproj": {}
   },
   "projects": {
-    "/home/tiago/Documentos/_SENAI/_SENAI.csproj": {
+    "/home/tiago/Documentos/_SENAI/Atividade/_SENAI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/tiago/Documentos/_SENAI/_SENAI.csproj",
+        "projectUniqueName": "/home/tiago/Documentos/_SENAI/Atividade/_SENAI.csproj",
         "projectName": "_SENAI",
-        "projectPath": "/home/tiago/Documentos/_SENAI/_SENAI.csproj",
+        "projectPath": "/home/tiago/Documentos/_SENAI/Atividade/_SENAI.csproj",
         "packagesPath": "/home/tiago/.nuget/packages/",
-        "outputPath": "/home/tiago/Documentos/_SENAI/obj/",
+        "outputPath": "/home/tiago/Documentos/_SENAI/Atividade/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/tiago/.nuget/NuGet/NuGet.Config"
